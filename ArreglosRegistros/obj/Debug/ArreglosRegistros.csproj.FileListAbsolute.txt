@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\ArreglosRegistros\bin\Debug\ArreglosRegistros.exe.config
+C:\Users\USER\source\repos\ArreglosRegistros\bin\Debug\ArreglosRegistros.exe
+C:\Users\USER\source\repos\ArreglosRegistros\bin\Debug\ArreglosRegistros.pdb
+C:\Users\USER\source\repos\ArreglosRegistros\obj\Debug\ArreglosRegistros.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ArreglosRegistros\obj\Debug\ArreglosRegistros.CapturaBoxBuscarNombre.resources
+C:\Users\USER\source\repos\ArreglosRegistros\obj\Debug\ArreglosRegistros.DialogBoxCaptura.resources
+C:\Users\USER\source\repos\ArreglosRegistros\obj\Debug\ArreglosRegistros.Form1.resources
+C:\Users\USER\source\repos\ArreglosRegistros\obj\Debug\ArreglosRegistros.Properties.Resources.resources
+C:\Users\USER\source\repos\ArreglosRegistros\obj\Debug\ArreglosRegistros.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ArreglosRegistros\obj\Debug\ArreglosRegistros.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ArreglosRegistros\obj\Debug\ArreglosRegistros.exe
+C:\Users\USER\source\repos\ArreglosRegistros\obj\Debug\ArreglosRegistros.pdb
+C:\Users\USER\source\repos\ArreglosRegistros\obj\Debug\ArreglosRegistros.CapturaBoxBuscarPrecio.resources
+C:\Users\USER\source\repos\ArreglosRegistros\obj\Debug\ArreglosRegistros.CapturaBoxBuscarExistencia.resources
